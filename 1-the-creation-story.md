@@ -24,7 +24,7 @@ Genesis the first book of the Bible means beginnings. Genesis is where we first 
 
 Learning about the origin of things is important because it helps us to align our lives up with God's purpose and make adjustments if need be, so that we may please Him.
 
-In the Creation Story we see how powerful God is and that he is clearly in charge of everything. God is all powerfu.
+In the Creation Story we see how powerful God is and that he is clearly in charge of everything. 
 
 <br>
 <br>
