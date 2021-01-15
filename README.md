@@ -19,7 +19,7 @@ The genesis-project is an interactive bible study of some of the most popular bi
 
 | # | Title | Testament | Scripture |
 |---|-------|-----------|-----------|
-| 1 | The Creation Story | Old Testament | Genesis 1:1-2:4 |
+| 1 |[The Creation Story](https://github.com/pastortonya/genesis-project/blob/main/OT-bible-stories/1-the-creation-story/README.md) | Old Testament | Genesis 1:1-2:4 |
 | 2 | The Garden of Eden | Old Testament | Genesis         |                |
 | 3 | Noah's Arc         | Old Testamnt  | Genesis         |
 
